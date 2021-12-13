@@ -14,4 +14,6 @@ __Door lock/unlock via CanBus commands (2006 Nissan Xterra)
 
 __Canbus immobilizer override (2006 Nissan Xterra)
 
-__GPS Tracking (SimCom7500) with adjustable update frequency to save data
+__GPS Tracking (SimCom7500) with adjustable update frequency to save data, with battery voltage data reported
+
+__Wifi-Enabled software updates
